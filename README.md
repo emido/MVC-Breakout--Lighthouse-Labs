@@ -42,5 +42,3 @@ end: 15:00
 ### Demo
 
 * The goal is to use MVC to create a single view application that simply randomizes 3 artist objects and display them in our view. 
-
-![](http://www.giphy.com/gifs/l0HUfsFR1ZEOePpNS)
