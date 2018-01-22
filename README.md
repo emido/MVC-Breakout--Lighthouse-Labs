@@ -43,4 +43,4 @@ end: 15:00
 
 * The goal is to use MVC to create a single view application that simply randomizes 3 artist objects and display them in our view. 
 
-<iframe src="https://giphy.com/embed/l0HUfsFR1ZEOePpNS" width="262" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/l0HUfsFR1ZEOePpNS"></a></p>
+![](http://www.giphy.com/gifs/l0HUfsFR1ZEOePpNS)
