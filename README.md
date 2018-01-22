@@ -33,7 +33,10 @@
 
 ### Video Resource Explaining MVC For iOS
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-auG-myu02Q" frameborder="0" allowfullscreen></iframe>
+https://www.youtube.com/embed/-auG-myu02Q
+
+start: :40
+end: 15:00
 
 
 ### Demo
