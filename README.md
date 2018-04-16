@@ -28,8 +28,6 @@
 
 [Wikipedia article](https://en.wikipedia.org/wiki/Model–view–controller)
 
-[Cocoa Core Competencies](https://developer.apple.com/library/content/documentation/General/Conceptual/DevPedia-CocoaCore/MVC.html)
-
 
 ### Video Resource Explaining MVC For iOS
 
